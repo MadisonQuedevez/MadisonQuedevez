@@ -1,30 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=20% src="https://www.bing.com/th/id/OGC.21116158daaeb1459b4ec0758505e1ad?pid=1.7&rurl=http%3a%2f%2fi.imgur.com%2fMvMxQ1a.gif&ehk=HMomWORtsNV5HUW%2bMQwuljytqvw2m0Jx5jK06TtA%2fcs%3d"/>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D42E05&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Madison+Quedevez+;Estudo+Ciências+de+Dados+na+FLAI-IA...;++Faço+dashboards+no+PowerBi+e+Análise+de+dados...;Amo+o+que+faço+e+adoro+novos+desafios...;...+;I'm+from+Brasil;I+study+Data+Science+and+Machine+Learning+;Business+Intelligence+at+FLAI-IA;Be+Welcome+in+my,git!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D42E05&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Madison+Quedevez+;Estudo+Ciências+de+Dados+na+FLAI-AI...;++Faço+dashboards+no+PowerBi+e+Análise+de+dados...;Amo+o+que+faço+e+adoro+novos+desafios...;...+;I'm+from+Brasil;I+study+Data+Science+and+Machine+Learning+;Business+Intelligence+at+FLAI-AI;Be+Welcome+in+my,git!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MadisonQuedevez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="MadisonQuedevez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonQuedevez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MadisonQuedevez&theme=gotham&hide_border=true&area=true)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MadisonQuedevez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+ 
 
 ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -43,7 +37,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MadisonQuedevez}/count.svg" /></p> 
 <br></div>
   
 
