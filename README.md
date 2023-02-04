@@ -1,5 +1,5 @@
-<img width=20% src="https://www.bing.com/th/id/OGC.21116158daaeb1459b4ec0758505e1ad?pid=1.7&rurl=http%3a%2f%2fi.imgur.com%2fMvMxQ1a.gif&ehk=HMomWORtsNV5HUW%2bMQwuljytqvw2m0Jx5jK06TtA%2fcs%3d"/>
-
+<div id="ladoalado"><img width=20% src="https://www.bing.com/th/id/OGC.21116158daaeb1459b4ec0758505e1ad?pid=1.7&rurl=http%3a%2f%2fi.imgur.com%2fMvMxQ1a.gif&ehk=HMomWORtsNV5HUW%2bMQwuljytqvw2m0Jx5jK06TtA%2fcs%3d"/><img width=10% src="https://www.c-sharpcorner.com/article/how-to-developer-a-robotic-process-automation-rpa-in-c-sharp-language/Images/unnamed.gif"/></div>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D42E05&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Madison+Quedevez+;Estudo+Ciências+de+Dados+na+FLAI-AI...;++Faço+dashboards+no+PowerBi+e+Análise+de+dados...;Amo+o+que+faço+e+adoro+novos+desafios...;...+;I'm+from+Brasil;I+study+Data+Science+and+Machine+Learning+;Business+Intelligence+at+FLAI-AI;Be+Welcome+in+my,git!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -17,10 +17,13 @@
  
 
 ### Main skills:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 
 ### Tools:
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![UBUNTU](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -40,5 +43,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MadisonQuedevez}/count.svg" /></p> 
 <br></div>
   
+<img width=10% src="https://www.c-sharpcorner.com/article/how-to-developer-a-robotic-process-automation-rpa-in-c-sharp-language/Images/unnamed.gif"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
