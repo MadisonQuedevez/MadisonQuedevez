@@ -30,10 +30,14 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 #### Studying in this moment:
-![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
-![pytourch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![diaflog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-!![tensorflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)&nbsp;
+<div> 
+  <a href = "https://Keras.io"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" target="_blank"></a>
+  <a href="https://dialogflow.cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"_blank"></a>
+  <a href="https://www.comet.com
+" target="_blank"><img src="https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" target="_blank"></a>
+</div>!
+
 
 #### Contacts:
 <div> 
