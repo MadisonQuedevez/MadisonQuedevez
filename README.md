@@ -36,8 +36,7 @@
   <a href="https://dialogflow.cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"_blank"></a>
   <a href="https://www.comet.com
 " target="_blank"><img src="https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" target="_blank"></a>
-</div>!
-
+</div>
 
 #### Contacts:
 <div> 
