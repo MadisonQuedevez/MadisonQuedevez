@@ -34,6 +34,16 @@
 ![pytourch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![diaflog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 !![tensorflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)&nbsp;
+
+#### Contacts:
+![]()&nbsp;
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail=madisonquedevez@gmail.com)&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+
+
  
 #### For Payments:
 ![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)&nbsp;
