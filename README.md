@@ -8,8 +8,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadisonQuedevez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MadisonQuedevez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
+  
  
 #### Main skills:
 <div>  
@@ -67,4 +68,5 @@
 ![built3](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)&nbsp;
   
 <img width=10% src="https://www.c-sharpcorner.com/article/how-to-developer-a-robotic-process-automation-rpa-in-c-sharp-language/Images/unnamed.gif"/>
+
 
