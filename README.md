@@ -1,4 +1,4 @@
-<div align="center"> <div id="ladoalado"><img width=20% src="https://www.bing.com/th/id/OGC.21116158daaeb1459b4ec0758505e1ad?pid=1.7&rurl=http%3a%2f%2fi.imgur.com%2fMvMxQ1a.gif&ehk=HMomWORtsNV5HUW%2bMQwuljytqvw2m0Jx5jK06TtA%2fcs%3d"/></div>
+<div align="center"><img width=20% src="https://www.bing.com/th/id/OGC.21116158daaeb1459b4ec0758505e1ad?pid=1.7&rurl=http%3a%2f%2fi.imgur.com%2fMvMxQ1a.gif&ehk=HMomWORtsNV5HUW%2bMQwuljytqvw2m0Jx5jK06TtA%2fcs%3d"/></div>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D42E05&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Madison+Quedevez+;Estudo+Ciências+de+Dados+na+FLAI-AI...;++Faço+dashboards+no+PowerBi+e+Análise+de+dados...;Amo+o+que+faço+e+adoro+novos+desafios...;...+;I'm+from+Brasil;I+study+Data+Science+and+Machine+Learning+;And+Business+Intelligence+at+FLAI-AI;Be+Welcome+in+my,git!:%29)](https://git.io/typing-svg)
 
@@ -6,8 +6,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MadisonQuedevez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="MadisonQuedevez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonQuedevez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MadisonQuedevez&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MadisonQuedevez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
