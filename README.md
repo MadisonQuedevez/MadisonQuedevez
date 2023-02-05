@@ -12,8 +12,14 @@
 </p>
  
 #### Main skills:
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+<div>  
+ <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"_blank"></a>
+ <a href="https://pypi.org" target="_blank"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"_blank"></a>
+   <a href="https://MYSQL.COM" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"_blank"></a>
+   <a href="https://pandas.pydata.org
+" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"_blank"></a>
+</div> 
 
 #### Frameworks,Tools and libraries:
 
@@ -26,11 +32,8 @@
   <a href="https://kali.org" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" target="_blank"></a>
   <a href="https://code.visualstudio.com
 " target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"_blank"></a>
-  <a href="" target="_blank"><img src=""_blank"></a>
-  <a href="" target="_blank"><img src=""_blank"></a>
-<a href="" target="_blank"><img src=""_blank"></a>
-  <a href="" target="_blank"><img src=""_blank"></a>
-  <a href="" target="_blank"><img src=""_blank"></a>
+  
+  <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"_blank"></a>
 
 </div> 
  
