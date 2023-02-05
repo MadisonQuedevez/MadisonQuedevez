@@ -37,7 +37,7 @@
 
 #### Contacts:
 ![]()&nbsp;
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](madisonquedevez@gmail.com)&nbsp;
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Enviar e-mail)&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
